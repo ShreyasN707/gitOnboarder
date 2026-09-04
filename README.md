@@ -17,7 +17,7 @@ This is a chat agent that helps you understand and search through GitHub reposit
    ```
 
 2. **Install dependencies**
-   It's recommended to use a virtual environment like Conda or venv.
+   I recommend you to use a virtual environment like Conda or venv.
    ```bash
    pip install -r requirements.txt
    ```
